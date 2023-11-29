@@ -1,0 +1,1070 @@
+fileFormatVersion: 2
+guid: f8c828650fdbcef4f80bc071e5523857
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rock turnaround_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1918
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7d0eef45a93104baa116695467ed98
+      internalID: -976543806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1918
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4915618599b7b458ea997d536317e1
+      internalID: -752746217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_2
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1918
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84708573d37bf2439d2f10fd60aaa5f
+      internalID: 903154314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1918
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54db02a6b830d3943aad304db9bb4c90
+      internalID: -1283009738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_4
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1918
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688e192a1396fe34aa45cdd3699b3507
+      internalID: -1834743789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_5
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1918
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff11993ed09ecf04da5d524230f7e184
+      internalID: 1887438028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_6
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1918
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b7fffff577a8a46bdb9500f460f945
+      internalID: 113657121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_7
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1918
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d864c6525056aae45a4950cceab8c583
+      internalID: -797660565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1662
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75550f4cae9991043a6820d7ca601871
+      internalID: 150536954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1662
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deebc27a08c87144a3ef80a4bed88fb
+      internalID: 1219081728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_10
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1662
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a9029fcf4bdc440bc605d0b8fb5f26
+      internalID: 467043751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_11
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1662
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01039b16324915b4fad93e188cf7d278
+      internalID: 97788112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_12
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1662
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8e273e3c5e2c042b377ff89fb695a7
+      internalID: -1213932748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_13
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1662
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1bc3c6e824268409f119fba4265a0d
+      internalID: -1850869093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_14
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1662
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e155ff0d73f348bbdd695f5dfdd7f
+      internalID: 443823300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_15
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1662
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcf7868608ce114ca71da2788f90460
+      internalID: -1163053519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1406
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bbdad68f868764fb86bf0800fe17a0
+      internalID: 1250477987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1406
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cafeca3e8a65b46a5b7d45be09591a
+      internalID: -2079933480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_18
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1406
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e38f2f9564b48a49bc6161cc95a8c7b
+      internalID: -1409322690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_19
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1406
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbed3e3ab3503bd4695f4c9e48a32a62
+      internalID: -1946420866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_20
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1406
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d9643d41c7c574285d14157571b468
+      internalID: -1396102824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_21
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1406
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f008f8756408042b3fa39946fa6bb5
+      internalID: -853843759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_22
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1406
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad95611af484c64abf396ddece50d09
+      internalID: 1860046100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_23
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1406
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454c6f6d88b2e134b95500231102f936
+      internalID: -2053049206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1150
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf7abe5f888238488eed7ebaabb8e18
+      internalID: -1264725935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_25
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1150
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da253df1947fd347bdd08870e698291
+      internalID: 634215492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_26
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1150
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11a9f55720921b4f9b522b3cf325cac
+      internalID: -1935739261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_27
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1150
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0118fc88ca7c5b4eadced1fbc2ead22
+      internalID: 216269495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_28
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1150
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b4d05b701b98b4b86a7d38ba049909
+      internalID: -51128831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_29
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1150
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed3a231444e9c54185cf71c089acef0
+      internalID: 1683796143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_30
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1150
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2d7db27df80504e8c175c7ba56d3c4
+      internalID: -789117629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_31
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1150
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7c1b3a5899b944bbfc9290a99f1018
+      internalID: 1939328819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 894
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d2924ae882f384ca50528c77e470dc
+      internalID: -2030397748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_33
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 894
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09fa8c496d6fdc42ad525fc300273ea
+      internalID: 770333162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_34
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 894
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a209ab73b445b92408e3e9df0e088121
+      internalID: 1712847921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_35
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 894
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10d27d63a9f15e438efe4a3a13ad90c
+      internalID: -2065871044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_36
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 894
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426da9df9be754247a747ba32db0815e
+      internalID: -985863420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_37
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 894
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672c900475b0ca34bb80033afc35c780
+      internalID: 1042892057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_38
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 894
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8057bec02eb33164788e12ff2a911a78
+      internalID: -289410077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_39
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 894
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0c881ae56f2804da3e6440a4b0b4b6
+      internalID: 1312234805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock turnaround_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 638
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b0bf84041838f4ea493ba058a6527b
+      internalID: 722068918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 0, y: 1024}
+      - {x: -156.31288, y: 1011.99915}
+      - {x: -308.9619, y: 976.2779}
+      - {x: -454.36914, y: 917.6735}
+      - {x: -589.12634, y: 837.55963}
+      - {x: -710.0749, y: 737.8141}
+      - {x: -814.37994, y: 620.7748}
+      - {x: -899.59656, y: 489.18506}
+      - {x: -963.7274, y: 346.12924}
+      - {x: -1005.26935, y: 194.96043}
+      - {x: -1023.2486, y: 39.221928}
+      - {x: -1017.2437, y: -117.435905}
+      - {x: -987.39557, y: -271.34116}
+      - {x: -934.4037, y: -418.88638}
+      - {x: -859.51013, y: -556.6133}
+      - {x: -764.47034, y: -681.2937}
+      - {x: -651.51215, y: -790.005}
+      - {x: -523.28314, y: -880.1993}
+      - {x: -382.7888, y: -949.76245}
+      - {x: -233.32222, y: -997.0641}
+      - {x: -78.38677, y: -1020.99536}
+      - {x: 78.38598, y: -1020.9954}
+      - {x: 233.32144, y: -997.0643}
+      - {x: 382.78806, y: -949.76276}
+      - {x: 523.2824, y: -880.1997}
+      - {x: 651.51154, y: -790.0055}
+      - {x: 764.4698, y: -681.2943}
+      - {x: 859.5096, y: -556.61414}
+      - {x: 934.4032, y: -418.88742}
+      - {x: 987.3952, y: -271.34238}
+      - {x: 1017.2436, y: -117.43731}
+      - {x: 1023.24866, y: 39.220398}
+      - {x: 1005.26965, y: 194.95882}
+      - {x: 963.728, y: 346.12756}
+      - {x: 899.5975, y: 489.18338}
+      - {x: 814.38116, y: 620.7732}
+      - {x: 710.0765, y: 737.8126}
+      - {x: 589.1282, y: 837.55835}
+      - {x: 454.37128, y: 917.6725}
+      - {x: 308.9643, y: 976.27716}
+      - {x: 156.31548, y: 1011.9988}
+    physicsShape: []
+    bones: []
+    spriteID: f5cad78561ecded439276c21f24a7c53
+    internalID: 2013839429
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      rock turnaround_0: -976543806
+      rock turnaround_1: -752746217
+      rock turnaround_10: 467043751
+      rock turnaround_11: 97788112
+      rock turnaround_12: -1213932748
+      rock turnaround_13: -1850869093
+      rock turnaround_14: 443823300
+      rock turnaround_15: -1163053519
+      rock turnaround_16: 1250477987
+      rock turnaround_17: -2079933480
+      rock turnaround_18: -1409322690
+      rock turnaround_19: -1946420866
+      rock turnaround_2: 903154314
+      rock turnaround_20: -1396102824
+      rock turnaround_21: -853843759
+      rock turnaround_22: 1860046100
+      rock turnaround_23: -2053049206
+      rock turnaround_24: -1264725935
+      rock turnaround_25: 634215492
+      rock turnaround_26: -1935739261
+      rock turnaround_27: 216269495
+      rock turnaround_28: -51128831
+      rock turnaround_29: 1683796143
+      rock turnaround_3: -1283009738
+      rock turnaround_30: -789117629
+      rock turnaround_31: 1939328819
+      rock turnaround_32: -2030397748
+      rock turnaround_33: 770333162
+      rock turnaround_34: 1712847921
+      rock turnaround_35: -2065871044
+      rock turnaround_36: -985863420
+      rock turnaround_37: 1042892057
+      rock turnaround_38: -289410077
+      rock turnaround_39: 1312234805
+      rock turnaround_4: -1834743789
+      rock turnaround_40: 722068918
+      rock turnaround_5: 1887438028
+      rock turnaround_6: 113657121
+      rock turnaround_7: -797660565
+      rock turnaround_8: 150536954
+      rock turnaround_9: 1219081728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
